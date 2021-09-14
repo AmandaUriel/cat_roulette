@@ -28,9 +28,9 @@ btn.onclick = () => {
             btn.classList.add('btn');
 
             if( maxi % 2 === 0){
-                time.innerHTML = "It's "+input1.value+" time!";
+                time.innerHTML = input1.value+" you're Lucky!";
             }else{
-                time.innerHTML = "It's "+input2.value+" time!";
+                time.innerHTML = input2.value+" you're Lucky!";
             }
 
         }else{
