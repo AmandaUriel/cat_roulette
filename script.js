@@ -35,9 +35,9 @@ btn.onclick = () => {
 
         }else{
             if( randomNum % 2 === 0 ){
-                img.src = "https://i1.sndcdn.com/avatars-000318220287-pxw0p3-t500x500.jpg";
+                img.src = "IMG/catgun_player_1.jpg";
             }else{
-                img.src = 'https://s.keepmeme.com/files/en_posts/20200822/0095dcd8ed821a024a2b383a9b01bc04cute-cat-holding-a-gun.jpg';
+                img.src = 'IMG/catgun_player_2.jpg';
             }
             btn.style.left = '30%';
             btn.innerHTML = "RELOAD";
