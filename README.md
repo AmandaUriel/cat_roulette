@@ -1,8 +1,8 @@
-# cat_roulette
-
-It's like the russian roulette, if one of you lose, a cat pic will appear
-
-# Example
-![alt text](https://i.imgur.com/4qebL3d.gif)
-
-Play here: https://madelineuriel.github.io/cat_roulette/
+<div align="center">
+  <h1>How the code looks like:</h1>
+  <sub>It's like the russian roulette, if one of you lose, a cat pic will appear</sub>
+  <br/>
+  <img src="https://i.imgur.com/g1voXZK.gif" alt="gif">
+  <br/>
+  Play here: https://madelineuriel.github.io/cat_roulette/
+<div>
