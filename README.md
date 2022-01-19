@@ -4,5 +4,5 @@
   <br/>
   <img src="https://i.imgur.com/g1voXZK.gif" alt="gif">
   <br/>
-  Play here: https://krisuriel.github.io/cat_roulette/
+  Play here: https://fernandauriel.github.io/cat_roulette/
 <div>
